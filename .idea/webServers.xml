@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c2cea7d5-b958-4f48-af38-deed2c3406cc" name="vega">
+        <fileTransfer accessType="SFTP" host="vega.laas.fr" port="22" sshConfigId="a98ed6fb-9b8e-441d-9173-c40bdee157da" sshConfig="couedrao@vega.laas.fr:22">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
